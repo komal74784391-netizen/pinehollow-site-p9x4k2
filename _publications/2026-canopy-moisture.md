@@ -3,8 +3,9 @@ title: "Long-Term Canopy Moisture from Consumer Weather Stations"
 venue: "Environmental Data Science"
 status: published
 paper_id: PCE-2026-055
-submission_ref: EDS-25-0392
+submission_ref: "EDS-25-0392"
 posted_on: 2026-02-02
+codeurl: https://github.com/komal74784391-netizen/pinehollow-canopy-moisture-p9x4k2
 ---
 
 # Abstract
