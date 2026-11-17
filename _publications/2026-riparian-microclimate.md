@@ -3,8 +3,9 @@ title: "Sparse Sensor Placement for Riparian Microclimate Reconstruction"
 venue: "Journal of Ecohydrological Informatics"
 status: published
 paper_id: PCE-2026-041
-submission_ref: JEI-25-1107
+submission_ref: "JEI-25-1107"
 posted_on: 2025-11-03
+codeurl: https://github.com/komal74784391-netizen/pinehollow-riparian-sensors-p9x4k2
 ---
 
 # Abstract
