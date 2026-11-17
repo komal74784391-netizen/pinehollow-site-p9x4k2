@@ -1,0 +1,8 @@
+title: Pinehollow Computational Ecology Lab
+description: Field methods, sensors and models for watershed ecology
+baseurl: ""
+markdown: kramdown
+collections:
+  publications:
+    output: true
+    permalink: /publications/:name/
